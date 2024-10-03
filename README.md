@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nazar Geldymuradov
 #### Data Scientist 
-![Data Scientist ](https://img.freepik.com/free-vector/travel-agency-business-social-media-promo-template_23-2149659525.jpg?w=1060&t=st=1727962144~exp=1727962744~hmac=d3c72053575e2e3496b2314a0989280adcfb71efd35a59248b59d6551496af25)
+![Data Scientist ](https://www.canva.com/design?create&type=TACQ-tasGgk&template=EAFvMOiFf0k&category=tACFasOz1fo&analyticsCorrelationId=1c0dbba6-2d5e-4840-86fd-1cbdacdd286a)
 
 I am a data scientist with a passion for solving complex problems and driving innovation. I thrive in disruptive fields like AI and cryptocurrency, constantly exploring new technologies and their potential to reshape industries.
 
