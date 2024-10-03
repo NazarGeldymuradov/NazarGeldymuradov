@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nazar Geldymuradov
 #### Data Scientist 
-![Data Scientist ](https://www.canva.com/templates/EAEgB12wxsM-black-white-and-yellow-modern-lines-sale-facebook-cover/)
+![Data Scientist ]
 
 I am a data scientist with a passion for solving complex problems and driving innovation. I thrive in disruptive fields like AI and cryptocurrency, constantly exploring new technologies and their potential to reshape industries.
 
