@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Nazar Geldymuradov
 #### Data Scientist 
-![Data Scientist ]
 
-I am a data scientist with a passion for solving complex problems and driving innovation. I thrive in disruptive fields like AI and cryptocurrency, constantly exploring new technologies and their potential to reshape industries.
+I am CS Major with a passion for solving complex problems and driving innovation. I thrive in disruptive fields like AI and cryptocurrency, constantly exploring new technologies and their potential to reshape industries.
 
 Eager to take on challenges in both the academic and professional world, I am always learning and seeking opportunities to expand my knowledge. 
 
