@@ -5,7 +5,10 @@ I am CS Major with a passion for solving complex problems and driving innovation
 
 Eager to take on challenges in both the academic and professional world, I am always learning and seeking opportunities to expand my knowledge. 
 
-Skills: JAVA / PYTHON / C++
+## Skills: 
+💻 JAVA 
+📝 PYTHON 
+➕ C++
 
 - 🔭 I’m currently working on Interior Design Company's Website 
 - 🌱 I’m currently learning C++ 
