@@ -12,5 +12,5 @@ Skills: JAVA / PYTHON / C++
 - 🌱 I’m currently learning C++ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazargeldy//)  
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
 
